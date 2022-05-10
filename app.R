@@ -1,6 +1,6 @@
-# Mononono
+# BEG (Bryan,Ee Yang,Gabriel)
 An RShiny app developed by students of Singapore Polytechnic for their final year project. App is derived from GeneCloudOmnics.
-#code for our app.R Mononono
+#code for our app.R BEG
 
 # https://shiny.rstudio.com/gallery/shiny-theme-selector.html
 

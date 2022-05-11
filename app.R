@@ -519,7 +519,7 @@ print(end.load - start.load)
    ui = fluidPage(theme = shinytheme("united"),
                 navbarPage(
                   # theme = "united",  # <--- To use a theme, uncomment this
-                  "zao shang hao",
+                  "BEG",
 ########################################################################################                  
                   # NAVBAR 1
                   navbarMenu("Preprocessing",
